@@ -1,0 +1,10 @@
+[submodule "worktrees/Isabelle2025-2-dev_patches"]
+	path = worktrees/Isabelle2025-2-dev_patches
+	url = https://github.com/xqyww123/isabelle-patched.git
+	branch = Isabelle2025-2/dev_patches
+	base = Isabelle2025-2/dot_syntax
+	ignore = all
+[submodule "worktrees/Isabelle2025-2-dev_patches-stock"]
+	path = worktrees/Isabelle2025-2-dev_patches-stock
+	url = https://github.com/xqyww123/isabelle-patched.git
+	ignore = all
